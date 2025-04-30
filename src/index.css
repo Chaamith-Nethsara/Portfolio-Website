@@ -4,3 +4,7 @@
   padding: 0;
   font-family: 'Outfit',Arial, Helvetica, sans-serif;
 }
+/*Add smooth scroll behaviour to the full html file*/
+html{
+  scroll-behavior: smooth;
+}
